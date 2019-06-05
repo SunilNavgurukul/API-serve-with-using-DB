@@ -1,0 +1,11 @@
+{
+  "name": "saral_clone",
+  "version": "0.0.2",
+  "description": "I am adding all data in database",
+  "main": "saral_clone.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sunil Parcha",
+  "license": "MIT"
+}
